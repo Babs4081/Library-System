@@ -1,0 +1,106 @@
+[
+    {
+        "book_id": "B102",
+        "title": "Babs Crash Course",
+        "author": "Babs The Programmer",
+        "category": "Programming",
+        "summary": "For Python Beginner",
+        "copies_total": 6,
+        "copies_avail": 4,
+        "borrowed_by": [
+            {
+                "username": "Larry",
+                "user_id": 71443
+            },
+            {
+                "username": "Gabby",
+                "user_id": 71119
+            }
+        ]
+    },
+    {
+        "book_id": "B111",
+        "title": "Starlight Paradox",
+        "author": "Nova Ardent",
+        "category": "Sci-Fi",
+        "summary": "A daring pilot discovers a hidden galaxy that could change the fate of humanity.",
+        "copies_total": 5,
+        "copies_avail": 4,
+        "borrowed_by": [
+            {
+                "username": "Larry",
+                "user_id": 71443
+            }
+        ]
+    },
+    {
+        "book_id": "B112",
+        "title": "Love in the Mist",
+        "author": "Clara Bennett",
+        "category": "Romance",
+        "summary": "Two strangers meet on a rainy night and discover that love can heal even the deepest scars.",
+        "copies_total": 6,
+        "copies_avail": 6,
+        "borrowed_by": []
+    },
+    {
+        "book_id": "B134",
+        "title": "Echoes Of The Stars",
+        "author": "Luna Drayke",
+        "category": "Sci-Fi",
+        "summary": "An Astronaut Lost In Deep Space Begins Receiving Mysterious Transmissions From A Parallel Universe.",
+        "copies_total": 7,
+        "copies_avail": 6,
+        "borrowed_by": [
+            {
+                "username": "Gabby",
+                "user_id": 71119
+            }
+        ]
+    },
+    {
+        "book_id": "B113",
+        "title": "Echoes of Eternity",
+        "author": "Liam Cross",
+        "category": "Fantasy",
+        "summary": "A fallen knight embarks on a quest through realms of magic to restore his lost honor and save a forgotten kingdom.",
+        "copies_total": 1,
+        "copies_avail": 0,
+        "borrowed_by": [
+            {
+                "username": "Larry",
+                "user_id": 71443
+            }
+        ]
+    },
+    {
+        "book_id": "B114",
+        "title": "Digital Mirage",
+        "author": "Ava Chen",
+        "category": "Sci-Fi",
+        "summary": "In a future where memories can be traded, a hacker discovers a secret that could collapse the entire digital economy.",
+        "copies_total": 3,
+        "copies_avail": 3,
+        "borrowed_by": []
+    },
+    {
+        "book_id": "B115",
+        "title": "Hearts in Twilight",
+        "author": "Sophie Lane",
+        "category": "Romance",
+        "summary": "When a writer escapes to a seaside town, she falls for a mysterious artist with a hidden past.",
+        "copies_total": 4,
+        "copies_avail": 4,
+        "borrowed_by": []
+    },
+    {
+        "book_id": "B116",
+        "title": "The Quantum Thief",
+        "author": "Rafael Vega",
+        "category": "Sci-Fi",
+        "summary": "A brilliant scientist must steal his own invention back from a corporation before it destroys time itself.",
+        "copies_total": 4,
+        "copies_avail": 4,
+        "borrowed_by": []
+    }
+]

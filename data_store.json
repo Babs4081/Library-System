@@ -1,0 +1,31 @@
+{
+    "admins": [
+        {
+            "admin": "Babs",
+            "pin": 3016
+        }
+    ],
+    "users": [
+        {
+            "username": "Gabby",
+            "user_id": 71119,
+            "pin": 2020,
+            "status": "Active",
+            "borrow": 1
+        },
+        {
+            "username": "Habbeb",
+            "user_id": 71293,
+            "pin": 4040,
+            "status": "Active",
+            "borrow": 3
+        },
+        {
+            "username": "Larry",
+            "user_id": 71443,
+            "pin": 2020,
+            "status": "Active",
+            "borrow": 0
+        }
+    ]
+}

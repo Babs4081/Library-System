@@ -1,0 +1,72 @@
+[
+    {
+        "user_id": 71443,
+        "username": "Larry",
+        "book_id": "B102",
+        "action": "borrow",
+        "borrow_remain": 2,
+        "date": "2025-10-26 14:13:48"
+    },
+    {
+        "user_id": 71443,
+        "username": "Larry",
+        "book_id": "B111",
+        "action": "borrow",
+        "borrow_remain": 1,
+        "date": "2025-10-26 14:14:00"
+    },
+    {
+        "username": "Larry",
+        "user_id": 71443,
+        "action": "return",
+        "book_id": "B111",
+        "date": "2025-10-26 14:14:23"
+    },
+    {
+        "user_id": 71443,
+        "username": "Larry",
+        "book_id": "B111",
+        "action": "borrow",
+        "borrow_remain": 1,
+        "date": "2025-10-26 14:15:00"
+    },
+    {
+        "user_id": 71443,
+        "username": "Larry",
+        "book_id": "B113",
+        "action": "borrow",
+        "borrow_remain": 0,
+        "date": "2025-10-26 14:16:26"
+    },
+    {
+        "user_id": 71119,
+        "username": "Gabby",
+        "book_id": "B102",
+        "action": "borrow",
+        "borrow_remain": 2,
+        "date": "2025-10-26 14:17:08"
+    },
+    {
+        "user_id": 71119,
+        "username": "Gabby",
+        "book_id": "B134",
+        "action": "borrow",
+        "borrow_remain": 1,
+        "date": "2025-10-26 14:17:43"
+    },
+    {
+        "username": "Gabby",
+        "user_id": 71119,
+        "action": "return",
+        "book_id": "B134",
+        "date": "2025-10-26 14:18:09"
+    },
+    {
+        "user_id": 71119,
+        "username": "Gabby",
+        "book_id": "B134",
+        "action": "borrow",
+        "borrow_remain": 1,
+        "date": "2025-10-26 14:18:17"
+    }
+]
